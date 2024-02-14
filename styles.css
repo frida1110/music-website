@@ -1,0 +1,30 @@
+
+body{
+    background-image: url("https://www.kexp.org/filebrowser_filer/serve/22887/"); /**/
+   
+    background-position: ; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+h3{
+    color: white;
+    background-color: rgb(155, 57, 73);
+} 
+
+.EC{ 
+background-color: rgb(110, 143, 145);
+}
+
+.MC{
+background-color: rgb(124, 84, 153);
+} 
+
+.Awards{
+    background-color: darkblue;
+}
+form{
+    background-color:palevioletredrgb(124, 84, 153);
+    width: 400px;
+    padding: 15px
+}
